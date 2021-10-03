@@ -31,7 +31,7 @@ Use:
 [Before that, make sure you have the necessary components installed: Python selenium, geckodriver for Firefox.]
 [The chromedriver is optional, only if you need to modify the script.]
 
-git clone https://github.com/OutsiderLost/Outsiderouter.git
+git clone https://github.com/OutsiderLost/Outsiderouter-pb.git
 
 cd Outsiderouter
 
