@@ -38,7 +38,7 @@ cd Outsiderouter
 open Outsiderouter.py
 (or)
 nano Outsiderouter.py
-(change it add the dictonary place)
+(change it add the dictionary place)
 
 (run the code)
 python3 Outsiderouter.py
